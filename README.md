@@ -1,2 +1,2 @@
-# TOM-AND-JERRY
-COLLISION DETECSION ALGORITHM
+# TomandJerryProject
+Collision detection between Tom and Jerry
